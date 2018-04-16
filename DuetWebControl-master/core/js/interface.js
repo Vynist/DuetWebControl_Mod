@@ -24,7 +24,7 @@ var coldExtrudeTemp, coldRetractTemp, tempLimit;
 var isPrinting, isPaused, printHasFinished;
 
 var currentPage = "files", waitingForPrintStart;
-showPage("files");
+//showPage("files");
 
 function resetGuiData() {
 	setBoardType("unknown");
