@@ -31,8 +31,8 @@ var settings = {
 	showATXControl: false,			// show ATX control
 
 	showFan1: true,					// show fan controls for fan 1
-	showFan2: false,				// show fan controls for fan 2
-	showFan3: false,				// show fan controls for fan 3
+	showFan2: true,				// show fan controls for fan 2
+	showFan3: true,				// show fan controls for fan 3
 	showFanRPM: false,				// show fan RPM in sensors
 
 	logSuccess: false,				// log all sucessful G-Codes in the console
